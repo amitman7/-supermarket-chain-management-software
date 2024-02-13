@@ -77,8 +77,8 @@ python3 printdb.py will print the following.
 
 Activities
 Branches
-(1, 'New York', 50)
-(2, 'Los Angeles', 60)
+(1, 'New York', 50).
+(2, 'Los Angeles', 60).
 (3, 'Chicago', 40)
 (4, 'Houston', 70)
 (5, 'Philadelphia', 45)
