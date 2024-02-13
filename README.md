@@ -1,5 +1,5 @@
-# Supermarket-Chain-Managing-Software
-In this assignment we built a software that manages a "supermarket chain" data that is stored in a db.
+# supermarket-chain-management-software
+This project focuses on managing data for supermarket chains. The assignment involved creating software that handles the information stored in a database. Developed using Python and SQLite
 
 # General Description
 We want to build software that manages supermarket chains, called BGU Mart. The software should support managing a large number of employees and the buying/selling of products. The software should also manage the inventory and thus contact various suppliers, who supply products. Sells and deliveries of products should be also registered and logged for tax purposes.
