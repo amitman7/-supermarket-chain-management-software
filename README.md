@@ -75,7 +75,7 @@ In This assignment we used Python 3.9 and sqlite3.
 Suppose you are given the following configuration file config.txt and run python3 initiate.py config.txt.
 python3 printdb.py will print the following.
 
-Activities Branches 
+### Activities Branches 
 
 (1, 'New York', 50)
 
@@ -97,71 +97,131 @@ Activities Branches
 
 (10, 'San Jose', 80)
 
-Employees 
+### Employees 
+
 (101, 'John Smith', 50000.0, 1)
+
 (102, 'Jane Doe', 60000.0, 1)
+
 (103, 'Bob Johnson', 45000.0, 2)
+
 (104, 'Alice Williams', 55000.0, 2)
+
 (105, 'Mike Brown', 65000.0, 3)
+
 (106, 'Sue Davis', 75000.0, 3)
+
 (107, 'Tom Davis', 85000.0, 3)
+
 (108, 'Jerry Smith', 95000.0, 1)
+
 (109, 'Alice Johnson', 105000.0, 2)
+
 (110, 'Bob Williams', 115000.0, 2)
+
 (111, 'Mike Davis', 125000.0, 3)
+
 (112, 'Sue Smith', 135000.0, 1)
+
 (113, 'Tom Johnson', 145000.0, 2)
+
 (114, 'Jerry Williams', 155000.0, 2)
+
 (115, 'Alice Brown', 165000.0, 3)
+
 (116, 'Bob Davis', 175000.0, 3)
+
 (117, 'Mike Smith', 185000.0, 1)
+
 (118, 'Sue Johnson', 195000.0, 2)
+
 (119, 'Tom Williams', 205000.0, 2)
+
 (120, 'Jerry Brown', 215000.0, 3)
 
-Products 
+### Products 
+
 (1, 'Apple', 0.5, 10)
+
 (2, 'Banana', 0.25, 20)
+
 (3, 'Orange', 0.75, 15)
+
 (4, 'Grapes', 1.5, 5)
+
 (5, 'Mango', 2.0, 7)
+
 (6, 'Peach', 1.25, 12)
+
 (7, 'Pineapple', 3.0, 8)
+
 (8, 'Strawberry', 1.75, 9)
+
 (9, 'Blueberry', 2.5, 6)
+
 (10, 'Raspberry', 1.5, 11)
 
-Suppliers 
+### Suppliers 
+
 (1, 'Acme Inc.', '(123) 456-7890')
+
 (2, 'XYZ Corp.', '(234) 567-8901')
+
 (3, 'ABC Enterprises', '(345) 678-9012')
+
 (4, 'Def Co.', '(456) 789-0123')
+
 (5, 'Ghi Inc.', '(567) 890-1234')
+
 (6, 'Jkl Enterprises', '(678) 901-2345')
+
 (7, 'Mno Co.', '(789) 012-3456')
+
 (8, 'Pqr Inc.', '(890) 123-4567')
+
 (9, 'Stu Enterprises', '(901) 234-5678')
+
 (10, 'Vwx Co.', '(012) 345-6789')
 
-Employees report 
+### Employees report 
+
 Alice Brown 165000.0 Chicago 0
+
 Alice Johnson 105000.0 Los Angeles 0
+
 Alice Williams 55000.0 Los Angeles 0
+
 Bob Davis 175000.0 Chicago 0
+
 Bob Johnson 45000.0 Los Angeles 0
+
 Bob Williams 115000.0 Los Angeles 0
+
 Jane Doe 60000.0 New York 0
+
 Jerry Brown 215000.0 Chicago 0
+
 Jerry Smith 95000.0 New York 0
+
 Jerry Williams 155000.0 Los Angeles 0
+
 John Smith 50000.0 New York 0
+
 Mike Brown 65000.0 Chicago 0
+
 Mike Davis 125000.0 Chicago 0
+
 Mike Smith 185000.0 New York 0
+
 Sue Davis 75000.0 Chicago 0
+
 Sue Johnson 195000.0 Los Angeles 0
+
 Sue Smith 135000.0 New York 0
+
 Tom Davis 85000.0 Chicago 0
+
 Tom Johnson 145000.0 Los Angeles 0
+
 Tom Williams 205000.0 Los Angeles 0
 
