@@ -75,10 +75,9 @@ In This assignment we used Python 3.9 and sqlite3.
 Suppose you are given the following configuration file config.txt and run python3 initiate.py config.txt.
 python3 printdb.py will print the following.
 
-Activities
-Branches
-(1, 'New York', 50).
-(2, 'Los Angeles', 60).
+Activities Branches 
+(1, 'New York', 50)
+(2, 'Los Angeles', 60)
 (3, 'Chicago', 40)
 (4, 'Houston', 70)
 (5, 'Philadelphia', 45)
@@ -87,7 +86,8 @@ Branches
 (8, 'San Diego', 65)
 (9, 'Dallas', 75)
 (10, 'San Jose', 80)
-Employees
+
+Employees 
 (101, 'John Smith', 50000.0, 1)
 (102, 'Jane Doe', 60000.0, 1)
 (103, 'Bob Johnson', 45000.0, 2)
@@ -108,7 +108,8 @@ Employees
 (118, 'Sue Johnson', 195000.0, 2)
 (119, 'Tom Williams', 205000.0, 2)
 (120, 'Jerry Brown', 215000.0, 3)
-Products
+
+Products 
 (1, 'Apple', 0.5, 10)
 (2, 'Banana', 0.25, 20)
 (3, 'Orange', 0.75, 15)
@@ -119,7 +120,8 @@ Products
 (8, 'Strawberry', 1.75, 9)
 (9, 'Blueberry', 2.5, 6)
 (10, 'Raspberry', 1.5, 11)
-Suppliers
+
+Suppliers 
 (1, 'Acme Inc.', '(123) 456-7890')
 (2, 'XYZ Corp.', '(234) 567-8901')
 (3, 'ABC Enterprises', '(345) 678-9012')
@@ -131,7 +133,7 @@ Suppliers
 (9, 'Stu Enterprises', '(901) 234-5678')
 (10, 'Vwx Co.', '(012) 345-6789')
 
-Employees report
+Employees report 
 Alice Brown 165000.0 Chicago 0
 Alice Johnson 105000.0 Los Angeles 0
 Alice Williams 55000.0 Los Angeles 0
@@ -152,3 +154,4 @@ Sue Smith 135000.0 New York 0
 Tom Davis 85000.0 Chicago 0
 Tom Johnson 145000.0 Los Angeles 0
 Tom Williams 205000.0 Los Angeles 0
+
